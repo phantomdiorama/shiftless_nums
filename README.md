@@ -11,4 +11,4 @@ The Numpad works as normal.
 2. <kbd>NumLock</kbd> Quits
 
 ### Tested On
-Windows 10 and AutoHotKey 1.1.22.07
+Windows 10 and AutoHotKey 1.1.32.00
